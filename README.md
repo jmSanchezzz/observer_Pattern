@@ -47,6 +47,6 @@ The system should be scalable to handle a growing number of subscribers without 
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 
-#UML Diagram
+# UML Diagram
 <img width="1936" height="1042" alt="observerPattern" src="https://github.com/user-attachments/assets/3e3eff1c-b96f-4756-9b8e-9467f09d2a62" />
 
