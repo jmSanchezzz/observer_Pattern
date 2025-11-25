@@ -27,7 +27,6 @@ public final class News {
 
     @Override
     public String toString() {
-        // Simplified output: no timestamps, only category and title (per user's request)
         return String.format("[%s] %s", category, title);
     }
 }
